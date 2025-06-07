@@ -1,2 +1,2 @@
 # task-tracker
-demo project for git $ github
+cowboy-demo project for git $ github
